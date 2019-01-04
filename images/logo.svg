@@ -1,0 +1,11 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+          viewBox="100 100 570 400" style="enable-background:new 100 100 570 400;" xml:space="preserve">
+            <line id="lc" style="fill:none;stroke:#F0F0F0;stroke-width:14;stroke-miterlimit:10;" x1="382.404" y1="163.573" x2="382.404" y2="463"/> <!-- Linea Central  -->
+            <line id="lici" style="fill:none;stroke:#F0F0F0;stroke-width:14;stroke-miterlimit:10;" x1="382.202" y1="428" x2="204.404" y2="428"/> <!-- Linea Inferior Central Izquierda  -->
+            <line id="licd" style="fill:none;stroke:#F0F0F0;stroke-width:14;stroke-miterlimit:10;" x1="382.202" y1="428" x2="560" y2="428"/> <!-- Linea Inferior Central Derecha  -->
+            <line id="lia" style="fill:none;stroke:#F0F0F0;stroke-width:14;stroke-miterlimit:10;" x1="210.433" y1="425.046" x2="381.267" y2="167.43"/> <!-- Linea Izquieda A  -->
+            <line id="lik" style="fill:none;stroke:#F0F0F0;stroke-width:14;stroke-miterlimit:10;" x1="554.154" y1="425.046" x2="438.146" y2="250.108"/> <!-- Linea Inferior K  -->
+            <line id="lsdk" style="fill:none;stroke:#F0F0F0;stroke-width:14;stroke-miterlimit:10;" x1="438.146" y1="250.108" x2="499.623" y2="167.43"/> <!-- Linea Superior Derecha K -->
+            <line id="lsik" style="fill:none;stroke:#F0F0F0;stroke-width:14;stroke-miterlimit:10;" x1="438.146" y1="250.108" x2="382.404" y2="320.411"/> <!-- Linea Superior Izquierda K  -->
+            <line id="lca" style="fill:none;stroke:#F0F0F0;stroke-width:14;stroke-miterlimit:10;" x1="382.404" y1="315.775" x2="204.404" y2="315.775"/> <!-- Linea Central A  -->
+</svg>
